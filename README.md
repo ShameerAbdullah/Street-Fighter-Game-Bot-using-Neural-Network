@@ -1,5 +1,5 @@
 
-# AI PROJECT PART 2
+# AI PROJECT 
 This README provides detailed instructions on how to set up and run the provided code solution for the tournament game. Please follow the steps below to install the necessary dependencies and execute the code successfully on your machine.
 ## Prerequisites/Dependencies:
 - Operating System: Windows 7 or above (64-bit)
